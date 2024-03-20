@@ -1,0 +1,6 @@
+function greetUser(name) {
+ return `Good Afternoon, ${name}`;
+}
+
+console.log(greetUser("Jane Doe")); // Output: Good Afternoon, Jane Doe
+
