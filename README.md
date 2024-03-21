@@ -1,4 +1,6 @@
-Data analysis focus on making impact in society through use of technology
-lubogopatrick/lubogopatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data analyst focus on making impact in society through use of technology.
+I'm passionate Data Analysis with experience for un covering insights from data.
+Currently learning exploring latest trends in data analyst and machine learning.
+As a data specialist,l collaborate on Data base management projects to drive decision making.
+Seeking opportunities to apply my skills in challenging environment.
+Fun fact.I once analysed a dataset to predict the out come of a local football match, and I was right!
